@@ -1,4 +1,6 @@
-# words-app
+# Words-App
+
+A small project to make it easier to learn different languages. The application is still quite raw.
 
 ## Project setup
 ```
@@ -15,5 +17,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
